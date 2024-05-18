@@ -49,11 +49,6 @@
     &:not(.has-media-on-the-right) .wp-block-media-text__content {
       padding-inline-start: $sp-3;
     }
-
-    // Applied only to medium or large screens
-    .wp-block-heading {
-      font-size: 3rem;
-    }
   }
 
   &.alignfull.has-media-on-the-right .wp-block-media-text__content {
